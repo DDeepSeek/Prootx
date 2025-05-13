@@ -1,8 +1,8 @@
-# Foxytoux Installer
+# Prootx Installer
 
 ## Overview
 
-This shell script is designed to automate the installation of Foxytoux, a lightweight Ubuntu environment using Proot.
+This shell script is designed to automate the installation of Prootx, a lightweight Ubuntu environment using Proot.
 
 ## Prerequisites
 
@@ -16,8 +16,8 @@ This shell script is designed to automate the installation of Foxytoux, a lightw
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/foxytouxxx/freeroot.git
-    cd freeroot
+    git clone https://github.com/DDeepSeek/Prootx.git
+    cd Prootx
     ```
 
 2. Run the installer script:
